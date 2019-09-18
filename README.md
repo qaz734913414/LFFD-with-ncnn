@@ -7,8 +7,9 @@
   official github: [LFFD](https://github.com/YonghaoHe/A-Light-and-Fast-Face-Detector-for-Edge-Devices)
   
 ## TODO(you can refer this implementation to do more)
- * MNN demo
- * TensorRT demo: mmxnet model --> onnx-->trt engine
- * openvino demo: mxnet model-->onnx-->openvino
+ - [x] MNN demo finished
+ - [x] openvino demo: mxnet model-->onnx-->openvino
+ - [x] TensorRT demo: mxnet model --> onnx-->trt engine
+
   
   
